@@ -1,0 +1,62 @@
+ticket_id,timestamp,customer_name / order_id,complaint,category,urgency,sentiment,kb_sources,response,status,escalation_reason
+TKT-0001,2026-11-03 23:14:27,Vignesh,Where is my order? It was supposed to arrive yesterday.,Shipping,Medium,Neutral,shipping_policy.md,"Dear Vignesh,
+
+Thank you for reaching out regarding your order. I understand that it was expected to arrive yesterday, and I apologize for the inconvenience this delay has caused.
+
+If your order has passed the estimated delivery date by 1 to 3 business days, I recommend checking the live tracking link that was sent to your email, as local delays can occasionally occur. If your order is more than 3 business days late or shows ""Stuck in Transit"" for 48 hours, we will initiate a carrier trace and provide you with a $10 store credit for the inconvenience.
+
+If your order is not delivered within 7 business days past the expected delivery date, you will be eligible for a full replacement shipment or a 100% refund.
+
+Please let me know if you need further assistance, and I hope your order arrives soon!
+
+Best regards,  
+[Your Name]  
+Customer Support",Resolved,None
+TKT-0002,2026-11-03 23:25:07,Vignesh,I want to return the shoes I bought last week. How do I get a refund?,Refund,Low,Neutral,refund_policy.md,"Dear Vignesh,
+
+Thank you for reaching out regarding your return. You can return the shoes you purchased last week as long as it is within our **30 calendar days** return window. Here’s how you can request a return and get your refund:
+
+1. Go to the **Orders** page in your account dashboard.
+2. Select the item and click **Request Return / Refund**.
+3. Download and print the prepaid return shipping label.
+4. Drop the package at any authorized carrier drop-off location.
+
+Once we receive and inspect the item, your refund will be processed within **5 to 7 business days** to your original payment method.
+
+If you have any further questions or need assistance, feel free to ask!
+
+Best regards,  
+[Your Name]  
+Customer Support Team",Resolved,None
+TKT-0003,2026-11-03 23:34:03,Suresh / ORD-8821,"My order is 9 business days past the expected delivery date and tracking has been stuck for days! This is ridiculous, I want a 100% refund immediately!",Shipping,High,Frustrated,"shipping_policy.md, refund_policy.md","Dear Suresh,
+
+I sincerely apologize for the inconvenience you've experienced with your order being 9 business days past the expected delivery date. I understand how frustrating this situation can be, especially when tracking has not provided any updates.
+
+According to our shipping policy, since your order is more than 7 business days late, you are eligible for a full refund. To initiate this process, please follow these steps:
+
+1. Go to the **Orders** page in your account dashboard.
+2. Select the item and click **Request Return / Refund**.
+
+Once we receive and inspect the item, your refund will be processed within **5 to 7 business days**.
+
+If you have any further questions or need assistance with the refund process, please let me know. I'm here to help!
+
+Thank you for your understanding.
+
+Best regards,  
+[Your Name]  
+Customer Support",Escalated,High urgency
+TKT-0004,2026-11-03 23:35:51,Ananya / ORD-9012,"I entered my password wrong 5 times and now my account says it is locked. Do I have to wait, or how can I unlock it right away?",Account,Medium,Neutral,account_and_login.md,"Hello Ananya,
+
+I understand that your account is currently locked due to multiple incorrect password attempts. For security reasons, accounts are temporarily locked for 30 minutes after 5 failed login attempts. However, you can unlock your account immediately by completing a password reset.
+
+To reset your password, please follow these steps:
+1. Visit the Login page and click **Forgot Password?** below the sign-in button.
+2. Enter the email address registered with your account.
+3. Check your inbox (and Spam/Promotions folder) for the password reset link, which should arrive within 2 minutes.
+4. Click the link (valid for 15 minutes) and create a new password that includes at least 8 characters, one number, and one special symbol.
+
+If you have any further questions or need assistance, feel free to reach out.
+
+Best regards,
+[Your Name]",Resolved,None
